@@ -48,8 +48,7 @@ Built entirely in **Python** and deployed on **Streamlit Cloud** for free access
 
 ### ✅ Streamlit Cloud (No Installation)
 
-👉 [Click here to launch the app](https://share.streamlit.io/YOUR-USERNAME/YOUR-REPO-NAME/main/app.py)  
-*(Replace with your actual Streamlit link once deployed)*
+👉 [Click here to launch the app](https://stocks-price-predictor-app.streamlit.app/)  
 
 ### 🖥️ Run Locally
 
@@ -77,14 +76,15 @@ Built entirely in **Python** and deployed on **Streamlit Cloud** for free access
 
 ## 🖼️ Sample Screenshot
 
-> *(Upload a screenshot of your deployed app and paste it here)*
+![image](https://github.com/user-attachments/assets/981ace29-4e7b-4bba-b9f5-1d66f70847f3)
+
 
 ---
 
 ## 👨‍💻 Author
 
 **Hashir Haffee**  
-🔗 [LinkedIn](https://www.linkedin.com/in/hashir-haffee/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hashirhaffee/)  
 🐙 [GitHub](https://github.com/hashirhaffee)
 
 ---
