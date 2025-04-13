@@ -1,7 +1,10 @@
 streamlit
-yfinance
 pandas
 numpy
+yfinance
+plotly
 scikit-learn
-matplotlib
+keras
 tensorflow
+matplotlib
+joblib
